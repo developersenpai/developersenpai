@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Quick Start Guide"
-description: "How to setup and use the blog"
-date: 2017-07-21
+title: Quick Start Guide
+description: How to setup and use the blog
+date: {}
 tags: jekyll
 comments: true
+published: true
 ---
 
 <script async defer src="https://buttons.github.io/buttons.js"></script>
@@ -12,7 +13,7 @@ comments: true
 <p align="center">
   <img src="https://deadbeef.me/paper-jekyll-theme/assets/paper-cover-photo.png">
   <p align="center">
-     A minimalistic Jekyll Theme
+     Eye-friendly way to read articles.
      <br>
      <br>
      <a class="no-hov" href="https://travis-ci.org/mkchoi212/paper-jekyll-theme"><img src="https://travis-ci.org/mkchoi212/paper-jekyll-theme.svg?branch=master"></a>
@@ -23,9 +24,9 @@ comments: true
 </p>
 <br>
 
-Paper is a minimal Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. The styling is purposely minimalistic so that you can add your own flare to the website.
+Eye is an organ. We can care more about our eyes with these following 5 tips.
 
-I'm currently using this theme on my [personal blog](https://www.deadbeef.me).
+I'm currently using this methods to read or listen to articles online / offline.
 
 ## Features
 - Compatible with Jekyll 3.x and Github Pages
