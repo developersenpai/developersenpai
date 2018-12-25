@@ -1,7 +1,7 @@
 # Site settings
 title: "Developer Senpai"
 description: > 
-  straight to the point
+  Android Dev & Tech Resources
 
 author: Ashish Kharche Senpai
 email: developersenpai@gmail.com
@@ -23,4 +23,3 @@ sass:
     style: compressed
 
 exclude: [vendor]
-
