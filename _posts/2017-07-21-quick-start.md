@@ -2,7 +2,7 @@
 layout: post
 title: Eye-friendly way to read articles
 description: Curated list of resources.
-date: {}
+date: 2017-07-20
 tags: jekyll
 comments: true
 published: true
