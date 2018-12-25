@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Quick Start Guide
-description: How to setup and use the blog
+title: Eye-friendly way to read articles
+description: Curated list of resources.
 date: {}
 tags: jekyll
 comments: true
