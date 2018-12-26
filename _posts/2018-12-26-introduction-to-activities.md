@@ -7,7 +7,9 @@ tags: test, style
 comments: true
 ---
 
-## Introduction to Activities | Developer Senpai
+## Introduction to Activities | Core Topics
+
+This article is meant as the summary of the official Android Developer Guides / Core Topics / Introduciton to Activities section. I have linked video and article references below the post to understand the topic better.
 
 Unlike programming paradigms in
 which apps are launched with a `main()` method, the Android
